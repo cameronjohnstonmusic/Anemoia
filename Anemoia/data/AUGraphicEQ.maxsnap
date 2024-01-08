@@ -1,0 +1,21 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "AUGraphicEQ",
+	"origin" : "AUGraphicEQ.auinfo",
+	"type" : "AudioUnit",
+	"subtype" : "AudioEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "AUGraphicEQ.auinfo",
+		"plugindisplayname" : "AUGraphicEQ",
+		"pluginsavedname" : "C74_AU:/AUGraphicEQ",
+		"pluginsaveduniqueid" : 1735550321,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"blob" : "442.hAGaoMGcv.y0AHv.DTfAGfPBJr.CM3.WsEla0YVXiQWcxUlbTQVXzEFWNUWafTTTfHTXtQ1bWMWchQWdvU1U1Ulbyk1atQEc4AWYT4VXsUlDgAGbr8TDAv................B.....ACJ......DPvfB......B.zu+6O...v.ACJ......PPvfB......EDLn......fAACJ......bPvfB......HDLn......PBACJ......n..........K..........C.........z..........N.........vC..........A.........Q.........fD.........LA.........T.........PE.........XA.........W..........F.........jA.........Z.........vF.........vA.........c.........fG........m.A.....PnfDmIWYwAA.RDVclgGVU4FcoQGakQF.H.vE.PB.o.fM.3C.FAvR..E.UEPYAbV.rEfaALG.......f.A.........vC..................P.7A"
+	}
+
+}
